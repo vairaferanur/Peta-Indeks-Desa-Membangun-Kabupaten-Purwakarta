@@ -9,9 +9,9 @@ Repository ini hasil kegiatan magang yang dilakukan di Dinas Komunikasi dan Info
 - Penyusunan peta informasi wilayah
 
 ## Tools
-QGIS
-ArcGIS
-Microsoft Excel
+- QGIS
+- ArcGIS
+- Microsoft Excel
 
 ## Output
 Peta Indeks Desa Membangun (IDM) Kabupaten Purwakarta Tahun 2024
