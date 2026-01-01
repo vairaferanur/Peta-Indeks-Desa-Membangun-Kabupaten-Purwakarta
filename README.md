@@ -6,7 +6,7 @@ Repository ini hasil kegiatan magang yang dilakukan di Dinas Komunikasi dan Info
 
 ## Kegiatan
 - Pengolahan dan penyajian data spasial
-- Penyusunan peta informasi wilayah
+- Penyusunan peta tematik
 
 ## Tools
 - QGIS
